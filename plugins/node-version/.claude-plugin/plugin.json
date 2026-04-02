@@ -1,0 +1,7 @@
+{
+  "name": "node-version",
+  "description": "Auto-detect and activate the correct Node.js version on session start using fnm, nvm, volta, mise, asdf, or n",
+  "author": {
+    "name": "Ali Yousuf"
+  }
+}

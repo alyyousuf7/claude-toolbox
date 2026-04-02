@@ -1,0 +1,16 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "claude-toolbox",
+  "description": "Personal collection of useful Claude Code plugins",
+  "owner": {
+    "name": "Ali Yousuf"
+  },
+  "plugins": [
+    {
+      "name": "node-version",
+      "description": "Auto-detect and activate the correct Node.js version on session start using fnm, nvm, volta, mise, asdf, or n",
+      "source": "./plugins/node-version",
+      "category": "development"
+    }
+  ]
+}
